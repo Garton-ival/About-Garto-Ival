@@ -1,0 +1,22 @@
+header{
+    text-align: justify;
+    text-size-adjust: 150;
+}
+.Two{
+    background-color: lightcoral;
+    margin: 20px;
+    padding: 20px;
+    border: 20px;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+.One{
+    background-color: magenta;
+    margin: 20px;
+    padding: 20px;
+    border: 20px;
+    height: 300px;
+    width: 300px;
+    float: left;
+}

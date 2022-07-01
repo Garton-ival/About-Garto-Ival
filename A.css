@@ -1,0 +1,75 @@
+header{
+    text-align: center;
+    text-decoration: crimson;
+    color: hotpink;
+}
+.bio{
+    background-color: aqua;
+    border: 20px;
+    margin: 20px;
+    padding: 100px 50px 50px 50px;
+    height: 300px;
+    width: 300px;
+    display:inline-block;
+    text-align: center;
+}
+.ph{
+    background-color: brown;
+    border: 20px;
+    margin: 20px;
+    padding: 100px 50px 50px 50px;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    right: 40px;
+    left: 400px;
+}
+.myEdu{
+    background-color: burlywood;
+    border: 20px;
+    margin: 20px;
+    padding: 100px 50px 50px 50px;
+    height: 300px;
+    width: 340px;
+    position: relative;
+    left: 400px;
+    bottom: 40px;
+}
+.hobby{
+    background-color: cadetblue;
+    border: 20px;
+    margin: 20px;
+    padding: 100px 50px 50px 50px;
+    height: 300px;
+    width: 300px;
+    float: left;
+    position: relative;
+    bottom: 80px;
+}
+.contact{
+    background-color: coral;border: 20px;
+    margin: 20px;
+    padding: 100px 50px 50px 50px;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    bottom: 80px;
+}
+.bio:hover{
+    background-color: blue;
+}
+.contact:hover{
+    background-color: chartreuse;
+}
+.hobby:hover{
+    background-color: crimson;
+}
+.myEdu:hover{
+    background-color: darkgreen;
+}
+.ph:hover{
+    background-color: deeppink;
+}
